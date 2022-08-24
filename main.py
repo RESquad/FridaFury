@@ -5,7 +5,7 @@ import argparse
 from threading import Thread
 
 ROOT_PATH = os.path.dirname(__file__)
-decompress_js_files = [ i for i in os.listdir(os.path.join(ROOT_PATH + 'src')) if i.endswith('.js') ]
+decompress_js_files = [ i for i in os.listdir(os.path.join(ROOT_PATH, 'src')) if i.endswith('.js') ]
 
 
 def main(decompress_file: str, magic_bytes: str, targets: str):
