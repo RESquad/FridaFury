@@ -3,7 +3,6 @@
 ![malware_skull_logo_cropped](https://user-images.githubusercontent.com/12107721/214729101-b7bb2126-a111-423c-a018-5e090245943b.png)
 
 
-
 ## Installation Steps
 ```
 git clone https://github.com/RESquad/FridaFury
